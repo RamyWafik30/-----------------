@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+.navbar-nav a {
+    text-decoration: none;
+    margin: 50px;
+
+}
+.navbar-nav li {
+    margin-top: 20px;
+}
